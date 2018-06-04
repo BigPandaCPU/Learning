@@ -1,0 +1,6 @@
+﻿viewImage工程介绍        汪雄  2017.08.14
+
+MultiOrganRender:多器官显示
+开发工具：Qt 5.4  32bit, msvc2012, VTK7.1.1
+
+功能介绍：将多个分割后的额mask数据显示在一起

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Administrator\Desktop\MyWork\Cmake学习\src\MathFunctions\mysqrt.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\MathFunctions\Table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Administrator\Desktop\MyWork\Cmake学习\src\MathFunctions\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\CMakeFiles\d0f0ec2db8dbf211a0c0f946479e2ee1\Table.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{EB1CAADE-C344-37D9-BED8-1885A1C65CFA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{10E5F9C2-1CAD-3B2F-A3AA-E2462EA3B2FF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7705B06D-97F9-33D2-B1FF-E07A0D374C81}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

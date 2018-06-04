@@ -1,0 +1,7 @@
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/CMakeFiles/Tutorial.dir
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/CMakeFiles/INSTALL.dir
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/MathFunctions/CMakeFiles/MathFunctions.dir
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/MathFunctions/CMakeFiles/Maketable.dir
+C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/MathFunctions/CMakeFiles/INSTALL.dir

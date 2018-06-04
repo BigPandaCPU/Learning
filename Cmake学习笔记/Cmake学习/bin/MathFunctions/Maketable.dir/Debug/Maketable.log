@@ -1,0 +1,18 @@
+﻿Build started 2017/10/22 18:58:28.
+     1>Project "C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\MathFunctions\Maketable.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/Administrator/Desktop/MyWork/Cmake学习/src/MathFunctions/CMakeLists.txt
+         CMake does not need to re-run because C:/Users/Administrator/Desktop/MyWork/Cmake瀛︿範/bin/MathFunctions/CMakeFiles/generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Users\Administrator\Desktop\MyWork\Cmake学习\src\MathFunctions}" /I"C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\MathFunctions" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"Maketable.dir\Debug\\" /Fd"Maketable.dir\Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\Administrator\Desktop\MyWork\Cmake学习\src\MathFunctions\MakeTable.cxx"
+         MakeTable.cxx
+     1>C:\Users\Administrator\Desktop\MyWork\Cmake学习\src\MathFunctions\MakeTable.cxx(13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\stdio.h(218) : see declaration of 'fopen'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\MathFunctions\Debug\Maketable.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/MathFunctions/Debug/Maketable.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Administrator/Desktop/MyWork/Cmake学习/bin/MathFunctions/Debug/Maketable.lib" /MACHINE:X86 /SAFESEH   /machine:X86 Maketable.dir\Debug\MakeTable.obj
+         Maketable.vcxproj -> C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\MathFunctions\Debug\Maketable.exe
+     1>Done Building Project "C:\Users\Administrator\Desktop\MyWork\Cmake学习\bin\MathFunctions\Maketable.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
