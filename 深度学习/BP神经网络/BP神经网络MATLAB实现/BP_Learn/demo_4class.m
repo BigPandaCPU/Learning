@@ -51,7 +51,12 @@ dbstop if error
 n_label = 2;
 %create the weight matrix
 n_input = size(X,2) - n_label;
-levels = [n_input 8 n_label];
+levels = [n_input 8 n_label]; 
+%{
+n_input：表示输入的神经元个数
+8：表示隐含层神经元个数
+n_label：表示输出层的神经元个数
+%}
 step = 0.01;
 [ W, theta ] = BP_tranning( X, levels, step ,50000);
 save three_class W theta
